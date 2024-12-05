@@ -82,5 +82,9 @@ Setelah semua konfigurasi dilakukan, restart layanan BIND untuk menerapkan perub
         ping mabar.dev
 
 
+## Dokumentasi
+
+![gambar](dokumentasi.png)
+
 
 
