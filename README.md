@@ -1,6 +1,6 @@
 # Instalasi dan konfigurasi DNS BIND9 Ubuntu server
 ### Kelompok A2 (DNS BIND9)
-- Muhamad Rizky - 233040043
+- Muhamad Rizky - 233040042
 - Aditya Eka Heriyawan - 233040068
 - Rafi Asmaul Rizal - 233040073
   
@@ -84,7 +84,7 @@ Setelah semua konfigurasi dilakukan, restart layanan BIND untuk menerapkan perub
 
 ## Dokumentasi
 
-![gambar](dokumentasi.png)
+![gambar](Mabar.local.png)
 
 
 
