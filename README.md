@@ -62,7 +62,7 @@ Ubah konten file menjadi seperti berikut:
 #### 3. Verifikasi Konfigurasi: Setelah melakukan perubahan, Anda perlu memeriksa konfigurasi BIND untuk memastikan tidak ada kesalahan:
      sudo named-checkconf
 
-Anda juga harus memeriksa file zona:
+Anda juga harus memeriksa file zona :
 
      sudo named-checkzone mabar.local /etc/bind/db.mabar.local
 
