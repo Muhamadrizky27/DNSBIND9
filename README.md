@@ -74,17 +74,16 @@ Setelah semua konfigurasi dilakukan, restart layanan BIND untuk menerapkan perub
 
 #### 5. Uji Konfigurasi
 
-Dengan dig:
+Dengan ping
 
-    dig @localhost www.mabar.local
+    ping mabar.local
 
   Dengan nslookup:
 
-    nslookup www.mabar.local 127.0.0.1
+    nslookup mabar.local 
 
 ## Dokumentasi
 
 ![gambar](Mabar.local.png)
-
 
 
