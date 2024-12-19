@@ -84,6 +84,6 @@ Dengan ping
 
 ## Dokumentasi
 
-![gambar](mabar.local.rev2)
+![gambar](mabar.local.rev2.png)
 
 
